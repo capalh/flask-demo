@@ -3,7 +3,6 @@ stages:
   - test
   - deploy
 
-# This job is for style test, running by using python 2.7
 
 pep8:
   stage: style
